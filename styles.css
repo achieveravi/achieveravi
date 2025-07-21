@@ -54,12 +54,14 @@ nav ul li a {
     border-radius: 50%;
 }
 
-.intro {
-    max-width: 600px;
-}
 
 .social-links a {
     margin-right: 1em;
     text-decoration: none;
     color: #0073e6;
+}
+
+.profile {
+    height: 150px;
+    width: 150px;
 }
